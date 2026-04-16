@@ -25,3 +25,6 @@
 2. 爬取資料：`python crawler.py`
 3. 建立索引：`python ingest.py`
 4. 啟動介面：`streamlit run app.py`
+
+## Demo 影片
+👉 [點此觀看系統操作示範](https://youtu.be/F7OliXXW5pg)
