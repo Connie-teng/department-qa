@@ -5,11 +5,15 @@
 
 ## 技術架構
 - **前端介面**：Streamlit
-- **語言模型**：Gemini 2.5 Flash API / LM Studio（本機）
+- **語言模型**：LM Studio（本機）
 - **向量資料庫**：FAISS
 - **Embedding**：sentence-transformers
 - **框架**：LangChain
 - **資料來源**：網頁爬蟲自動抓取系所網站
+
+## 環境需求
+- Python 3.12.4（建議版本）
+- Conda 環境管理（建議使用 Anaconda）
 
 ## 功能特色
 - 自然語言查詢系所資訊
